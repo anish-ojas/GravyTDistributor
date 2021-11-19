@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Icons" transform="translate(3 6)">
+    <g id="Rounded" transform="translate(-885 -3438)">
+      <g id="Navigation" transform="translate(100 3378)">
+        <g id="_-Round-_-Navigation-_-menu" data-name="-Round-/-Navigation-/-menu" transform="translate(782 54)">
+          <path id="Path" d="M0,0H24V24H0Z" fill="none" fill-rule="evenodd"/>
+          <path id="_-Icon-Color" data-name="🔹-Icon-Color" d="M4.167,20H22.833a1.167,1.167,0,1,0,0-2.333H4.167a1.167,1.167,0,0,0,0,2.333Zm0-5.833H22.833a1.167,1.167,0,1,0,0-2.333H4.167a1.167,1.167,0,1,0,0,2.333ZM3,7.167A1.17,1.17,0,0,0,4.167,8.333H22.833a1.167,1.167,0,1,0,0-2.333H4.167A1.17,1.17,0,0,0,3,7.167Z" transform="translate(0 -1)" fill="#f1a00a" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

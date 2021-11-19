@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="filter_list" transform="translate(3 6)">
+    <g id="Icons" transform="translate(-3 -6)">
+      <g id="Rounded">
+        <g id="Content">
+          <g id="_-Round-_-Content-_-filter_list" data-name="-Round-/-Content-/-filter_list">
+            <path id="Path" d="M0,0H20V20H0Z" fill="none"/>
+            <path id="_Icon-Color" data-name="🔹Icon-Color" d="M9.667,16h1.667a.833.833,0,1,0,0-1.667H9.667a.833.833,0,0,0,0,1.667ZM3,6.833a.836.836,0,0,0,.833.833H17.167a.833.833,0,1,0,0-1.667H3.833A.836.836,0,0,0,3,6.833Zm3.333,5h8.333a.833.833,0,0,0,0-1.667H6.333a.833.833,0,1,0,0,1.667Z" transform="translate(-0.5 -1)" fill="#0f4989"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
